@@ -1,0 +1,4 @@
+Stock log created on Thu May 18 20:04:25 2023
+
+Product ID: 1, Name: p1, Cost: Rs. 1000.00, Quantity: 12
+Product ID: 2, Name: p2, Cost: Rs. 1200.00, Quantity: 10

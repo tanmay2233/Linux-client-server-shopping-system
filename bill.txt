@@ -1,0 +1,4 @@
+Product ID	Product Name	Quantity	Price	Total
+1			p1				2			1000.00	2000.00
+
+Total:					2000.00
